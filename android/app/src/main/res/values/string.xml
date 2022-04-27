@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agdis</string>
+    <string name="facebook_app_id">449537459911339</string> 
+    <string name="fb_login_protocol_scheme">fb449537459911339</string>
+</resources>
